@@ -1,5 +1,6 @@
 # Wireless-Channel-Characteristics
-- In the first part of this project a single basestation with more than 10000 users have been implemented. Some specifics considered for this system. This system is using AWGN model. Characteristics that have been simulated:
+- First part
+in the first part of this project a single basestation with more than 10000 users have been implemented. Some specifics considered for this system. This system is using AWGN model. Characteristics that have been simulated:
   *Received Power at given distance
   *Expected SNR at given distance
   *Cosidering path-loss and shadowing effect on received power
